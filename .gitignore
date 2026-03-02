@@ -83,3 +83,10 @@ student_report_*.csv
 /request_API_From_PokeAPI/
 /GUI/
 /QR_Code_Gen/
+
+# Tools & Development
+tools/
+.venv/
+build/
+dist/
+*.log
